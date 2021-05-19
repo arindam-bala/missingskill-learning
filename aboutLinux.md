@@ -146,12 +146,14 @@ In **1985** he started creating his own Operating System called **GNU**.
 
 ## **Linux File System**
 ---
-Most people who have used Linux have seen the root directory but not everybody understands what 
-the directories are used for. A Windows user opening the file manager looks very much like opening 
-the home folder in Window and all looks very familiar and we have got our documents and downloads our pictures and videos same thing that is until they explore up the tree looking for the C: Drive. **Where is program files , where is Linux installed itself. How do we find anything ??** 
-
-**Windows and Linux evolved in very different ways.** Once upon a time there was a thing called MS  -DOS ( the Microsoft Disk Operating System). 
-
+Most users of  Linux have seen the root directory but not everybody understands what 
+the directories are used for. A Windows user when opens **my computer** looks C: Drive, where the 
+program files and Windows directories are present. But in case of Linux based Operating Systems
+there is no such place named as C: Drive. In Linux if we open **file system** we can see many folders.
+Among those folders there is a Home directory and a root directory.All the folders present inside the
+**file system** of Linux Opereating System contructs a Linux File System Structure. The file system 
+structure of Linux is totally different from Windows Operating System.
+ 
 ### **Directories of Linux System**
 ---
 **From top to bottom, the directories you are seeing are as follows.**
