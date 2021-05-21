@@ -19,7 +19,7 @@ Git is a distributed version control system. It can track changes in computer fi
 
 * Keeps track of code history
 * Takes snapshots of files
-* User can visit any any snapshot at any time
+* User can visit any snapshot at any time
 * User can commit while taking snapshots
 * User can also stage files before comitting
 
