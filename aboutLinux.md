@@ -1,9 +1,9 @@
 # **Linux Operating System**
 ---
-## **Sections**
-- [History](#Introduction)
-- [Linux Terminal Commands](#about-Richard-Stallman)
-- [Linux File System](#file-system)
+## **Contents**
+- [History](#History)
+- [Linux Terminal Commands](#Linux-Terminal-Commands)
+- [Linux File System](#Linux-File-System)
 
 ## **History**
 ---
