@@ -1,11 +1,11 @@
 > # **GIT**
 ---
-> ## **Sections**
-- [Introduction](#one)
-- [Concepts](#two)
-- [Basic Commands](#three)
-- [Intermediate GIT Commands](#four)
-- [Conclusion](#lastPart)
+> ## **Contents**
+- [Introduction](#Introduction)
+- [Concepts](#Concepts)
+- [Basic Commands](#Basic-Commands)
+- [Intermediate GIT Commands](#Intermediate-GIT-Commands)
+- [Conclusion](#Conclusion)
 ---
 > ### **Introduction**
 ---
