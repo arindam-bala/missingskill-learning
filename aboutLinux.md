@@ -44,6 +44,8 @@ In **1985** he started creating his own Operating System called **GNU**.
 
 ###  **Linus Torvalds**
 ---
+- [Contents](#Contents)
+
 * In between **1987** to **1990** a person named **Linus Torvalds** was doing some research on Physics and Mathematics and he was wanted to use the **BSD/LINUX** system.
 
 * Linus Torvalds don’t like **BSD/LINUX** system and both **Linus Torvalds** and **Richard Stallman** build a Kernal called Linux.. Which was totally free.
@@ -146,6 +148,8 @@ In **1985** he started creating his own Operating System called **GNU**.
 
 ## **Linux File System**
 ---
+- [Contents](#Contents)
+
 Most users of  Linux have seen the root directory but not everybody understands what 
 the directories are used for. A Windows user when opens **my computer** looks C: Drive, where the 
 program files and Windows directories are present. But in case of Linux based Operating Systems
@@ -198,6 +202,7 @@ Libraries are files that applications are used to perform various functions.
 
 * **/snap** : This directory is used for storing snapshot of the operating system current states for future use when a problem may occurs in the system. This folder actually saves a backup of the system current configuration as log files.
 
+- [Contents](#Contents)
 
 
 
