@@ -100,11 +100,11 @@ IP address means internet protocol address. It is the address of an Internet Con
 ---
 | Class    | Prefixes     | First Byte | 
 |----------|----------    |------------|
-|A         |n = 8 bits    | 0 to 127   |
-|B         |n = 16 bits   | 0 to 127   |
-|C         |n = 24 bits   | 0 to 127   |
-|D         |not applicable| 0 to 127   |
-|E         |not applicable| 0 to 127   |
+|A         |n = 8 bits    |   0 to 127 |
+|B         |n = 16 bits   | 128 to 191 |
+|C         |n = 24 bits   | 192 to 223 |
+|D         |not applicable| 224 to 239 |
+|E         |not applicable| 240 to 255 |
 
 ---
 **IPv6** :
