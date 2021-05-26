@@ -97,9 +97,9 @@ In **1985** he started creating his own Operating System called **GNU**.
 
 1. **pwd**  : print working directory( simply shows the current directory)
 
-1. **who**  :
+1. **who**  : Shows list of login users
 
-1. **who I am** :
+1. **who I am** : Shows the username of the current user
 
 1. **cat**   : displays all the content in the file inside the terminal
 
