@@ -92,7 +92,7 @@ Git is a distributed version control system. It can track changes in computer fi
 - [Contents](#Contents)
 
 When a developer practicing or developing codes for a perticular project he or she needs to create a backup of his or her source codes. Also when a program is under developing we have to make changes on it time to time. So we also need to create backup of all the versions of those codes. This is a very hard job to do. And if we save all this in our local hard drive then it is not backed up. Back up means mimimum two copies of same file in different drives.
-GIT gives us a **local repository** and a **remote repository**. We can save files to our local repository and **commit changes** for different versions. Thants why it is call a **Version Control System**. And we can also send these files to a **remote repository provided by GITHUB**.It is very helpfull for more than one developer as a team working on a single project.
+GIT gives us a **local repository** and a **remote repository**. We can save files to our local repository and **commit changes** for different versions. Thats why it is called a **Version Control System**. And we can also send these files to a **remote repository provided by GITHUB**.It is very helpfull for more than one developer as a team working on a single project.
 
 ---
 - [Contents](#Contents)
