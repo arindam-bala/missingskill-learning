@@ -22,27 +22,27 @@
 1. JavaScript was developed by Brenden Eich in 1995 when he worked in Netscape Communications.
 
 
-1. That time Netscape Navigator is the worlds popular browser.
+1. That time Netscape Navigator was worlds most popular browser.
 
 
 1. In 1995 Microsoft also launched Internet Explorer internet browser to break Netscape's monopoly in the field of internet browser.
 Because Netscape's browser was a paid software. 
 
-1. Netscape's internet browser was called Netscape Navigator.
+1. Netscape's internet browser was called Netscape Navigator back then.
 
 1. Later the name of this language was changed to LiveScript.
 
-1. After coming Internet Explorer from Microsoft, Netscape's monopoly was breakdown. Because Internet Explorer is totally free.
+1. After coming Internet Explorer from Microsoft, Netscape's monopoly was breakdown. Because Internet Explorer was totally free.
 
 1. In Netscape Navigator browser all the front end part was controlled by the language LiveScript back then. 
  
 1. In the back end of this Netscape Navigator an another language works. This is also a very popular language at present time. The name of the language is Java. 
 
-1. Java was a Object Oriented Programming Language and developed by Sun Microsystems.
+1. Java was an Object Oriented Programming Language and developed by Sun Microsystems.
 
 1. Java was not totally compatible to the Netscape Platform. So a totally new kind of programming language was developed within three weeks and it is called Mocha back then.
 
-1. After that Netscape Mocha and Livescript together changed the name of the language to JavaScript. 
+1. After that Netscape, Mocha and Livescript together changed the name of the language to JavaScript. 
 
 1. JavaScript was totally a front end language back then. And Java was patented and copyrighted  by Sun Microsystems for the back end processing.
 
@@ -69,7 +69,7 @@ Because Netscape's browser was a paid software.
         * symbol
         * undefined
     
-    * **Composite Types**: Composite types are also primitive types but into some larger structure. In JavaScript object is the main composite data type, from all other composite types are evolved.
+    * **Composite Types**: Composite types are also primitive types but into some larger structure. In JavaScript object is the main composite data type and from **Object** all other composite types are evolved.
 
     **It is also called Copy By Reference** 
         
